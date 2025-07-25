@@ -1,2 +1,2 @@
 The first line is added in the main branch in local repo.
-The second line is added from the b1 branch in local repo...
+The second line is added from the b1 branch in local repo... ( Gonna try fast forward merge )
